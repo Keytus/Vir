@@ -1,0 +1,24 @@
+Player auras
+
+All allies within the area of a player's aura skill will receive the aura's buff. The magnitude of that buff is determined by the Aura generator's Increased Effect of Auras stat. However, that stat has no effect on the strength of an Aura received from someone. Passive and item modifiers can further enhance the effects received from an aura.
+
+For example, Player A is generating a Level 20
+Discipline
+aura; granting everyone inside the aura 303 Energy Shield. Player A also has +25% Increased Effect of Non-Curse Auras, thereby increasing the amount of Energy Shield to 379. Player A has no increases to Energy Shield, so they will only see an increase of 379 Energy Shield. Player B has +100% Increased Maximum Energy Shield and stands inside Player A's aura, thus Player B sees an increase of 758 Energy Shield. Player B's own "Increased Effect of Auras" stat has no bearing on the effect of the Discipline received from Player A.
+
+The passive tree can provide 69% aura effect, though it requires heavy point investment. The Champion Duelist class can have an additional 20% effect, the Guardian Templar class can have an additional 10% effect, and the Necromancer Witch class an additional 5%.
+Conqueror's Potency
+can provide another 3% effect. Through the use of
+Victario's Influence
+with its lvl 30
+Generosity Support
+and up to 15% increased effect mod, an additional 64% increased aura effect can be obtained. However, supported auras will not affect you. If the player equips a
+Dying Breath
+, an additional 18% effect can be achieved at the cost of a shield (such as
+Prism Guardian
+) and weapon (such as Advancing Fortress or Ephemeral Edge). 
+Additionally, the player can equip
+The Jinxed Juju
+amulet for up to an additional 15% increased effect. There is also a type of
+Medium Cluster Jewel
+that grants aura effect. 

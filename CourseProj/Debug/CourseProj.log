@@ -1,0 +1,11 @@
+﻿  CourseProj.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(121,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(136,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(214,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(218,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(236,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(240,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(297,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\ABC\coursework\CourseProj\CourseProj\CourseProj.cpp(297,21): warning C4101: 'j': unreferenced local variable
+  CourseProj.vcxproj -> C:\Users\User\Desktop\ABC\coursework\CourseProj\Debug\CourseProj.exe

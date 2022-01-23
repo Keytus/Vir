@@ -1,0 +1,5 @@
+The CreateThread function creates a new thread for a process. The creating thread must specify the starting address of the code that the new thread is to execute. Typically, the starting address is the name of a function defined in the program code (for more information, see ThreadProc). This function takes a single parameter and returns a DWORD value. A process can have multiple threads simultaneously executing the same function.
+
+The following is a simple example that demonstrates how to create a new thread that executes the locally defined function, MyThreadFunction.
+
+The calling thread uses the WaitForMultipleObjects function to persist until all worker threads have terminated. The calling thread blocks while it is waiting; to continue processing, a calling thread would use WaitForSingleObject and wait for each worker thread to signal its wait object. Note that if you were to close the handle to a worker thread before it terminated, this does not terminate the worker thread. However, the handle will be unavailable for use in subsequent function calls.
